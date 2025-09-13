@@ -1,33 +1,11 @@
-<<<<<<< HEAD
 
 # Movie Recommendation System
 =======
 ## 🎬 Implementation Details
->>>>>>> e68660a (Update MovieRecommendationSystem notebook and README with new features and descriptions)
 
 This Movie Recommendation System is built using the **MovieLens dataset** and integrates with the **TMDB API** to fetch movie overviews and additional links.  
 
-<<<<<<< HEAD
-## Features
-- Content-based recommendations using TF-IDF and cosine similarity
-- Integration with TMDB API for movie overviews
-- Average rating-based ranking
-- Clickable links to TMDB, MovieLens, and IMDb
-- Works with MovieLens ml-latest-small dataset
-
 ## Installation
-pip install pandas numpy scikit-learn requests ipython
-
-## Usage
-Download the MovieLens dataset (movies.csv, ratings.csv, tags.csv, links.csv)
-
-Load the dataset and run the notebook or Python script
-
-Use the function recommend_movies_full("Movie Title", n) to get top n recommendations
-
-This project uses the MovieLens ml-latest-small dataset ---- > https://grouplens.org/datasets/movielens/
-=======
-### 💻 Installation
 pip install pandas numpy scikit-learn requests ipython
 
 ### ⚙️ Steps Involved
@@ -60,4 +38,3 @@ pip install pandas numpy scikit-learn requests ipython
 
 ✅ This project combines **content-based recommendation techniques** with **real-world API integration**, creating an **interactive and practical movie recommendation system**.
 
->>>>>>> e68660a (Update MovieRecommendationSystem notebook and README with new features and descriptions)
