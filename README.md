@@ -14,6 +14,11 @@ This system analyzes movie genres, user tags, and ratings to recommend similar m
 ## Installation
 pip install pandas numpy scikit-learn requests ipython
 
-# Movie-Recommendation-System
-A content-based movie recommendation system using the MovieLens dataset. It suggests movies based on genres, tags, and ratings, fetches overviews via TMDB API, and provides direct links to TMDB, IMDb, and MovieLens pages for easy exploration. Built with Python, Pandas, and Scikit-learn.
+## Usage
+Download the MovieLens dataset (movies.csv, ratings.csv, tags.csv, links.csv)
 
+Load the dataset and run the notebook or Python script
+
+Use the function recommend_movies_full("Movie Title", n) to get top n recommendations
+
+This project uses the MovieLens ml-latest-small dataset ---- > https://grouplens.org/datasets/movielens/
