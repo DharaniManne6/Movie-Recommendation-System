@@ -1,11 +1,11 @@
 
-# Movie Recommendation System
-=======
+# 🎞️ Movie Recommendation System
+
 ## 🎬 Implementation Details
 
 This Movie Recommendation System is built using the **MovieLens dataset** and integrates with the **TMDB API** to fetch movie overviews and additional links.  
 
-## Installation
+### 💻 Installation
 pip install pandas numpy scikit-learn requests ipython
 
 ### ⚙️ Steps Involved
